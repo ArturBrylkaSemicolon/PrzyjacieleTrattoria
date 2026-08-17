@@ -166,6 +166,10 @@ h3 {
   gap: 11px;
 }
 
+.brand img {
+  width: 12rem;
+}
+
 .brand-mark {
   display: inline-grid;
   width: 49px;
@@ -221,7 +225,7 @@ h3 {
 .hero-content {
   position: relative;
   z-index: 2;
-  padding-top: 145px;
+  padding-top: 60px;
   padding-bottom: 110px;
 }
 
@@ -558,6 +562,10 @@ h3 {
 
 .footer-brand {
   color: var(--white);
+}
+
+.footer-brand img {
+  width: 8rem;
 }
 
 .footer p {
